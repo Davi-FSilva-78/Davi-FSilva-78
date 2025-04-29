@@ -3,7 +3,7 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **São Paulo Tech School (SPTech)**.  
 💻 Apaixonado por tecnologia e atualmente focado em **desenvolvimento de sistemas**, com maior interesse na área de **Backend**.
 
----
+--
 
 ## 🚀 Sobre mim
 
@@ -11,7 +11,7 @@
 - 🛠️ Gosto de resolver problemas práticos com código e entender a fundo como as tecnologias funcionam por trás;
 - 🔎 Em busca de **oportunidades de estágio ou projetos** que me desafiem e acelerem meu aprendizado.
 
----
+--
 
 ## 💡 Interesses atuais
 
@@ -21,7 +21,19 @@
 - Banco de dados (MySQL, MongoDB)
 - Práticas de Clean Code e versionamento com Git
 
----
+--
+
+## 🏫 Organizações Acadêmicas  
+
+🔹 **Centralização do conhecimento** – Cada organização reúne conteúdos relacionados, como exemplos, exercícios e desafios.  
+🔹 **Aprendizado estruturado** – Meu progresso fica registrado, do básico ao avançado, mostrando a evolução em cada matéria.  
+🔹 **Expansão contínua** – Além da faculdade, **Algoritmo125** será o espaço para tudo que eu aprender sobre código.  
+
+📌 **Minhas organizações:**  
+- 🔗 [Algoritmo125](https://github.com/Algoritimo125) – Lógica de programação e estrutura de dados.  
+- 🔗 [PesquisaInovacao](https://github.com/PesquisaInovacao) – Inovação e pesquisa em tecnologia.  
+
+--
 
 ## 📫 Como falar comigo
 
