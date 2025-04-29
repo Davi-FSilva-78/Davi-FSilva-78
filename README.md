@@ -3,15 +3,12 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **São Paulo Tech School (SPTech)**.  
 💻 Apaixonado por tecnologia e atualmente focado em **desenvolvimento de sistemas**, com maior interesse na área de **Backend**.
 
---
 
 ## 🚀 Sobre mim
 
 - 🧠 Estou aprimorando minha **lógica de programação**, explorando diferentes linguagens e paradigmas;
 - 🛠️ Gosto de resolver problemas práticos com código e entender a fundo como as tecnologias funcionam por trás;
 - 🔎 Em busca de **oportunidades de estágio ou projetos** que me desafiem e acelerem meu aprendizado.
-
---
 
 ## 💡 Interesses atuais
 
@@ -21,19 +18,21 @@
 - Banco de dados (MySQL, MongoDB)
 - Práticas de Clean Code e versionamento com Git
 
---
-
 ## 🏫 Organizações Acadêmicas  
 
-🔹 **Centralização do conhecimento** – Cada organização reúne conteúdos relacionados, como exemplos, exercícios e desafios.  
-🔹 **Aprendizado estruturado** – Meu progresso fica registrado, do básico ao avançado, mostrando a evolução em cada matéria.  
-🔹 **Expansão contínua** – Além da faculdade, **Algoritmo125** será o espaço para tudo que eu aprender sobre código.  
+Para manter meu aprendizado organizado e estruturado, criei estas organizações no GitHub como repositórios que centralizam conteúdos relacionados. Cada uma reúne exemplos, exercícios, desafios e aplicações práticas, formando um espaço conectado para acompanhar minha evolução, do básico ao avançado.  
 
-📌 **Minhas organizações:**  
+### 🎯 Benefícios da Centralização  
+
+🔹 **Centralização do conhecimento** – Nada fica solto! Tudo o que aprendo sobre determinado assunto fica agrupado.  
+🔹 **Aprendizado estruturado** – Minha trajetória de estudos é registrada de forma progressiva, mostrando minha curva de aprendizado.  
+🔹 **Expansão contínua** – Não se limita à faculdade; continuarei adicionando novos conteúdos conforme aprendo mais.  
+🔹 **Organizações únicas** – Crio cada organização quando percebo um grande volume de informações relacionadas, garantindo uma estrutura clara e coesa.  
+
+### 📌 **Minhas organizações:**  
 - 🔗 [Algoritmo125](https://github.com/Algoritimo125) – Lógica de programação e estrutura de dados.  
 - 🔗 [PesquisaInovacao](https://github.com/PesquisaInovacao) – Inovação e pesquisa em tecnologia.  
 
---
 
 ## 📫 Como falar comigo
 
