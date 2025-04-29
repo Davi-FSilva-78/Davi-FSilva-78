@@ -22,13 +22,6 @@
 
   Para manter meu aprendizado organizado e estruturado, criei estas organizações no GitHub como repositórios que centralizam conteúdos relacionados. Cada uma reúne exemplos, exercícios, desafios e aplicações práticas, formando um espaço conectado para acompanhar minha evolução, do básico ao avançado.  
 
-  ### 🎯 Benefícios da Centralização  
-  
-  🔹 **Centralização do conhecimento** – Nada fica solto! Tudo o que aprendo sobre determinado assunto fica agrupado.  
-  🔹 **Aprendizado estruturado** – Minha trajetória de estudos é registrada de forma progressiva, mostrando minha curva de aprendizado.  
-  🔹 **Expansão contínua** – Não se limita à faculdade; continuarei adicionando novos conteúdos conforme aprendo mais.  
-  🔹 **Organizações únicas** – Crio cada organização quando percebo um grande volume de informações relacionadas, garantindo uma estrutura clara e coesa.  
-
   ### 📌 **Minhas organizações:**  
   - 🔗 [Algoritmo125](https://github.com/Algoritimo125) – Lógica de programação e estrutura de dados.  
   - 🔗 [PesquisaInovacao](https://github.com/PesquisaInovacao) – Inovação e pesquisa em tecnologia.  
