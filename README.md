@@ -1,13 +1,11 @@
 # 👋 Olá! Eu sou o Davi Fernando da Silva
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **São Paulo Tech School (SPTech)**.  
-💻 Apaixonado por tecnologia e atualmente focado em **desenvolvimento de sistemas**, com maior interesse na área de **Backend**.
-
 
 ## 🚀 Sobre mim
 
-  - 🧠 Estou aprimorando minha **lógica de programação**, explorando diferentes linguagens e paradigmas;
-  - 🛠️ Gosto de resolver problemas práticos com código e entender a fundo como as tecnologias funcionam por trás;
+  - 🧠 Atualmente estou focado em aprimorar minha **lógica de programação**, explorando diferentes linguagens e paradigmas;
+  - 🛠️ Gosto de resolver problemas práticos e entender a fundo como as tecnologias funcionam por trás;
   - 🔎 Em busca de **oportunidades de estágio ou projetos** que me desafiem e acelerem meu aprendizado.
 
 ## 💡 Interesses atuais
@@ -20,7 +18,7 @@
 
 ## 🏫 Organizações Acadêmicas  
 
-  Para manter meu aprendizado organizado e estruturado, criei estas organizações no GitHub como repositórios que centralizam conteúdos relacionados. Cada uma reúne exemplos, exercícios, desafios e aplicações práticas, formando um espaço conectado para acompanhar minha evolução, do básico ao avançado.  
+  Para manter meu aprendizado organizado e estruturado, criei estas organizações no GitHub como repositórios que centralizam conteúdos relacionados. Cada uma reúne exemplos, exercícios, desafios e aplicações práticas, formando espaços conectados para que eu possa acompanhar minha evolução em determinadas áreas, e assim, consiguir mensurar meu níivel técnico.  
 
   ### 📌 **Minhas organizações:**  
   - 🔗 [Algoritmo125](https://github.com/Algoritimo125) – Lógica de programação e estrutura de dados.  
